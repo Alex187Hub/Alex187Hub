@@ -24,20 +24,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-## Stats:
-
-### Views
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alex187Hub&label=Profile%20views&color=0e75b6&style=flat" alt="Alex187Hub" /> </p>
-
-### Github Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alex187Hub" alt="Alex187Hub" /></a> </p>
-
-### Github Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alex187Hub&show_icons=true&locale=en&layout=compact" alt="Alex187Hub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=Alex187Hub&theme=dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=background" alt="Alex187Hub" /></p>
-
